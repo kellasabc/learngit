@@ -6,3 +6,4 @@ Creating a new branch is quick and simple.
 add merge
 test dev branch in remote
 test git diff
+test merge --no-ff

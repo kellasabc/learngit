@@ -7,3 +7,4 @@ add merge
 test dev branch in remote
 test git diff
 test merge --no-ff
+test again
